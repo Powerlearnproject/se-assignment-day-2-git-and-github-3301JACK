@@ -604,4 +604,4 @@ Example: Create a project board with columns for "Backlog," "In Progress," and "
 Regular Communication:
 
 Strategy: Foster a culture of communication within the team. Use comments on issues and pull requests to discuss changes and provide feedback.
-Example: Schedule regular check-ins or stand-up meetings to discuss progress and address any challenges
+Example: Schedule regular check-ins or stand-up meetings to discuss progress and address any challenges.
